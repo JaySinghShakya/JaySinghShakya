@@ -35,11 +35,12 @@ Prestige Institute of Engineering Management & Research, Indore, Madhya Pradesh
 An end-to-end AI system that analyzes live video feeds to detect vehicle collisions, classify incident severity, count vehicles, and recognize known individuals using facial biometrics. Built with a modular Python architecture.
 
 ### Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/jaysinghshakya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/jaysinghshakya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:shakayajaysingh28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="30" />
   </a>
 </p>
