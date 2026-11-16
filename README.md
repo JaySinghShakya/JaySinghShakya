@@ -31,7 +31,7 @@ Prestige Institute of Engineering Management & Research, Indore, Madhya Pradesh
 
 ### Featured Project
 
-**[Smart Surveillance: Accident Detection & Face Recognition](https://github.com/Jay-Singh2006/smart-surveillance-accident-detection)**
+**[Smart-Surveillance-Accident-Detection](https://github.com/JaySinghShakya/Smart-Surveillance-Accident-Detection)**
 An end-to-end AI system that analyzes live video feeds to detect vehicle collisions, classify incident severity, count vehicles, and recognize known individuals using facial biometrics. Built with a modular Python architecture.
 
 ### Connect with me
