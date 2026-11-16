@@ -1,4 +1,4 @@
-# Hi, I'm Jay 
+# Hi, I'm Jay Singh
 
 I'm a software developer who enjoys building things from scratch. I work on everything from web applications and databases to computer vision AI and Unity projects. I like figuring out how to make different technologies work together.
 
@@ -21,7 +21,7 @@ Prestige Institute of Engineering Management & Research, Indore, Madhya Pradesh
 
 **AI & Data Science**
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,r" />
 </p>
 
 **Databases & Tools**
@@ -35,5 +35,5 @@ Prestige Institute of Engineering Management & Research, Indore, Madhya Pradesh
 An end-to-end AI system that analyzes live video feeds to detect vehicle collisions, classify incident severity, count vehicles, and recognize known individuals using facial biometrics. Built with a modular Python architecture.
 
 ### Connect with me
-- **LinkedIn:**https://www.linkedin.com/in/jaysinghshakya
+- **LinkedIn:** [jaysinghshakya](https://www.linkedin.com/in/jaysinghshakya)
 - **Email:** shakyajaysingh28@gmail.com
